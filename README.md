@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, this introduction is still in progress 😌
+Meanwhile, feel free to visit my [personal website](https://young-su-ko.github.io/) instead.
 
 <!--
 **young-su-ko/young-su-ko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
