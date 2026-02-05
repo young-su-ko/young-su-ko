@@ -1,7 +1,9 @@
 # About Me 👋
 Hi, I'm Young Su, a researcher working at the intersection of AI and biology. More specifically, I'm using **AI to better understand the behavior of proteins, such as how they interact with other proteins**. More broadly, my research spans protein language modeling, generative modeling, antibody engineering, and protein design. 
 
-I'd love to connect if you have similar interests (`y4ko at ucsd dot edu`)! See below for a summary of my research and projects ⬇️.
+I'd love to connect if you have similar interests (`y4ko at ucsd dot edu`)! 
+
+See [CV here](https://young-su-ko.github.io/assets/files/cv.pdf) | See summary of research and projects below ⬇️.
 
 # Research
 
