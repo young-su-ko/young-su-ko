@@ -45,7 +45,7 @@ As I began to explore protein generative models, the most important question was
 
 I created the `plm-fid` package to enable users to quickly compute the Frechet distance based on pLM embeddings. This packages allows users to pass in two sets of protein sequences (e.g. a FASTA file containing generated sequences and another FASTA file containing natural sequences from UniRef) and returns the Frechet distance when the sequences are embedded by a pLM. Since any pLM can be used, we offer the choice of multiple pLMs, including ESM2, ESM-C, ProtT5, etc. This was also my first time creating a Python package and uploading it to PyPI--it helped me see how engineering principles are important even as a research-oriented scientist.
 
-[Code](github.com/young-su-ko/plm-fid)
+[Code](https://github.com/young-su-ko/plm-fid) 
 
 ---
 
